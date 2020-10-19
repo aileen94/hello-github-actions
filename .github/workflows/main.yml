@@ -21,7 +21,7 @@ jobs:
           MY_NAME: "Clara"
 
 
-  test:
+  test2:
     name: first Job
     runs-on: ubuntu-latest
     steps:
